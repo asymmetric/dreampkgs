@@ -12,15 +12,16 @@
         "poetry2nix": "poetry2nix"
       },
       "locked": {
-        "lastModified": 1638430110,
-        "narHash": "sha256-cebkq8F8jfGgHsMbNGGVHsvyhQJADebWCSI9uiHYglI=",
-        "owner": "davhau",
+        "lastModified": 1643840449,
+        "narHash": "sha256-TYe00ZCkvEjIKNaBRxh5LFT+v3wY0N1uDP2MH1df9MQ=",
+        "owner": "asymmetric",
         "repo": "dream2nix",
-        "rev": "20c8e4bb7253744824b24975207190aa30b32fee",
+        "rev": "e0df8aaabcdd04f6626cc0fe735c2abbf488663b",
         "type": "github"
       },
       "original": {
-        "owner": "davhau",
+        "owner": "asymmetric",
+        "ref": "fix-ledger",
         "repo": "dream2nix",
         "type": "github"
       }
